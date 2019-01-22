@@ -1,0 +1,1 @@
+Test project that incorporates similar structure at work to help learn Grpc, Protobuf (compiling), Autofac, NSubstitute (AutoBogus' version), xUnit
