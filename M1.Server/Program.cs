@@ -6,7 +6,7 @@ namespace M1.Server
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }

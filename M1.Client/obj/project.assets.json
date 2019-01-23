@@ -417,7 +417,7 @@
   },
   "libraries": {
     "Google.Protobuf/3.6.1": {
-      "sha512": "D/h9IZl76jjfM5VlPzG235Zdys9RKXNLYbRGm2fa6Y2UshTqAvYBPIydNOvNTEa24DER/m/zvelHlLO9n1GtNQ==",
+      "sha512": "741fGeDQjixBJaU2j+0CbrmZXsNJkTn/hWbOh4fLVXndHsCclJmWznCPWrJmPoZKvajBvAz3e8ECJOUvRtwjNQ==",
       "type": "package",
       "path": "google.protobuf/3.6.1",
       "files": [
@@ -944,7 +944,7 @@
       ]
     },
     "System.Interactive.Async/3.1.1": {
-      "sha512": "x9y2omkjEudKbIVuhUzeWw7ZlouEzpk4W98woCEq1lq9gJxERBKRKDTHF5JPEws9E0f4/Uei/2vLxEy1IrfmMg==",
+      "sha512": "hZccYiIE5RS1/J9Tb/BNtosAGVggdlsJm4Ojdu+gDV0p4AIi+LUfUogMKkRacljQEJd2AG6vYzvcjhQFkqoZmw==",
       "type": "package",
       "path": "system.interactive.async/3.1.1",
       "files": [
@@ -1559,23 +1559,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Macias\\.nuget\\packages\\": {},
+    "C:\\Users\\MaciasBensimhon\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tests\\M1\\M1.Client\\M1.Client.csproj",
+      "projectUniqueName": "C:\\tests\\M1\\M1.Client\\M1.Client.csproj",
       "projectName": "M1.Client",
-      "projectPath": "D:\\tests\\M1\\M1.Client\\M1.Client.csproj",
-      "packagesPath": "C:\\Users\\Macias\\.nuget\\packages\\",
-      "outputPath": "D:\\tests\\M1\\M1.Client\\obj\\",
+      "projectPath": "C:\\tests\\M1\\M1.Client\\M1.Client.csproj",
+      "packagesPath": "C:\\Users\\MaciasBensimhon\\.nuget\\packages\\",
+      "outputPath": "C:\\tests\\M1\\M1.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Macias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MaciasBensimhon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1588,8 +1588,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\tests\\M1\\M1.Grpc\\M1.Grpc.csproj": {
-              "projectPath": "D:\\tests\\M1\\M1.Grpc\\M1.Grpc.csproj"
+            "C:\\tests\\M1\\M1.Grpc\\M1.Grpc.csproj": {
+              "projectPath": "C:\\tests\\M1\\M1.Grpc\\M1.Grpc.csproj"
             }
           }
         }
@@ -1604,6 +1604,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
